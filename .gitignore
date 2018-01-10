@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Custum
+test/test.sln
+test/Debug/
+test/test/Debug/
+test/.vs/
+
+*.vcxproj*
